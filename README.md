@@ -2,7 +2,7 @@
  
 # Database Project
 
-This repository contains the SQL database schema created for an academic project. The primary purpose of this database is to support a relational model design aligned with project specifications.
+This repository contains the T-SQL database schema created for an academic project. The primary purpose of this database is to support a relational model design aligned with project specifications.
 
 ## Features
 
